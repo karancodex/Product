@@ -1,0 +1,4 @@
+node_modules
+/.husky
+/.expo
+scripts/reset-project.js
